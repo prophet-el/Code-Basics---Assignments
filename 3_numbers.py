@@ -30,5 +30,3 @@ ask = input("Enter the number:")
 ask = int(ask)
 print("The binary of the number",ask,"is", bin(ask)[2: ])
 
-
-
